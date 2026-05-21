@@ -15,7 +15,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF3B3B&height=120&section=header" width="100%"/>
 </p>
 
-## Über mich
+## 👾 Über mich
 
 Ich baue gerne Dinge – meistens kleine Tools, Skripte, Utilities und Experimente die echte Probleme lösen oder einfach eine Idee ausprobieren.  
 Mein Fokus liegt auf **Automatisierung**, **Scripting** und **Programm‑Entwicklung**. Ich mag klare Logik und praktische Lösungen.
